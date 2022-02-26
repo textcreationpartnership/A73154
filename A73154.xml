@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Shepheards lamentation to the tune of The plaine-dealing woman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73154</idno>
+            <idno type="STC">STC 22406.5</idno>
+            <idno type="STC">ESTC S5337</idno>
+            <idno type="EEBO-CITATION">39960827</idno>
+            <idno type="OCLC">ocm 39960827</idno>
+            <idno type="VID">150432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Shepheards lamentation to the tune of The plaine-dealing woman.</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for I.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1617]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.)</note>
+                  <note>Contains three woodcut illus.</note>
+                  <note>Right half sheet contains: The Second Part of the Plaine dealing woman.</note>
+                  <note>Imperfect: stained, cropped, and torn, with loss of text.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150432:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The Shepheards Lamentation.</head>
+            <opener>To the tune of the plaine-dealing Woman.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme Shepheards, decke your heads,</l>
+                  <l>no more with bayes but willowes</l>
+                  <l>Forſake your downy beds,</l>
+                  <l>and make your ground your pillowes:</l>
+                  <l>And mourne with mo, ſince croſt</l>
+                  <l>as I, was neuer no man:</l>
+                  <l>Nor neuer ſhepheard lo, lo, lo, loſt,</l>
+                  <l>ſo plaine a dealing woman.</l>
+               </lg>
+               <lg>
+                  <l>All you forſaken woers.</l>
+                  <l>that euer were diſtreſſed,</l>
+                  <l>And all you luſty Louers,</l>
+                  <l>that euer loue moleſted,</l>
+                  <l>Your loſſe I muſt condole,</l>
+                  <l>and all together ſummon,</l>
+                  <l>To mourne for the poore ſo, ſo, ſoule,</l>
+                  <l>of my plaine dealing woman:</l>
+               </lg>
+               <lg>
+                  <l>Faire <hi>Venus</hi> made her chaſt,</l>
+                  <l>and <hi>Ceres</hi> beauty gaue her:</l>
+                  <l>
+                     <hi>Pan</hi> wept when ſhe was loſt,</l>
+                  <l>and <hi>Satyres</hi> ſtroue to haue her:</l>
+                  <l>But oh ſhe was to them</l>
+                  <l>ſo nice, ſo coy, that no man,</l>
+                  <l>Could iudge but he that knew, knew, knew,</l>
+                  <l>ſhe was plaine dealing woman,</l>
+               </lg>
+               <lg>
+                  <l>For all her pretty parts,</l>
+                  <l>I neuer enough ſhall wonder,</l>
+                  <l>She ouercame all hearts,</l>
+                  <l>and all hearts made to wonder.</l>
+                  <l>Her breath it is ſo ſweet,</l>
+                  <l>ſo ſweet the like felt no man,</l>
+                  <l>Oh, Shepheards neuer lo, lo, loſt,</l>
+                  <l>ſo plaine a dealing woman.</l>
+               </lg>
+               <lg>
+                  <l>Her eyes did ſhine like glaſſe,</l>
+                  <l>to gra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e her comely feature:</l>
+                  <l>Faire <hi>Venus</hi> ſhe did farre ſurpaſſe,</l>
+                  <l>ſhe was a comely creature.</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhe wa<gap reason="illegible: damage" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible: damage" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> coy,</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> euer yet was no one:</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>Cupid</hi> that blind bo, bo, boy,</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> my plaine <gap reason="illegible: damage" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aling Woman.</l>
+               </lg>
+               <lg>
+                  <l>So beautifull was ſhe,</l>
+                  <l>in fauour and in feature:</l>
+                  <l>Her well ſhapt limbs did ſhew,</l>
+                  <l>ſhe was a comely creature:</l>
+                  <l>What griefe was this to me,</l>
+                  <l>iudge all true hearted yong men<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>To haue ſo great a lo, lo, loſſe,</l>
+                  <l>of my plaine dealing woman.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Diana</hi> faire and chaſt,</l>
+                  <l>on her might well attend,</l>
+                  <l>A Nimph ſhe was at leaſt,</l>
+                  <l>and to Shepheards a great friend:</l>
+                  <l>And oh ſhe was ſo kind,</l>
+                  <l>as neuer yet was no one,</l>
+                  <l>A man could hardly fi, fi, find,</l>
+                  <l>ſo plaine a dealing woman.</l>
+               </lg>
+               <lg>
+                  <l>So courteous eke ſhe was,</l>
+                  <l>I and ſo kind to all men:</l>
+                  <l>What better pleaſure could you wiſh,</l>
+                  <l>then ſo plaine a dealing woman:</l>
+                  <l>But now alas ſhoes gone</l>
+                  <l>it makes my heart to pitty:</l>
+                  <l>Oh there was neuer ſuch an o, o, other wench</l>
+                  <l>in Country or in Citty.</l>
+               </lg>
+               <lg>
+                  <l>Kind Shepheards all farewell,</l>
+                  <l>ſince death hath me ore taken:</l>
+                  <l>Vnto the world pray <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all,</l>
+                  <l>that I am quite forſaken,</l>
+                  <l>And ſo to all adue,</l>
+                  <l>goe forth I pray and ſummon,</l>
+                  <l>The <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting crew to mourne for me,</l>
+                  <l>and my plaine dealing woman.</l>
+               </lg>
+               <lg>
+                  <l>Put on your mourning weeds,</l>
+                  <l>and bring the wreath of willow:</l>
+                  <l>Goe tell the world I am dead,</l>
+                  <l>and make the ground my pillow.</l>
+                  <l>And ring, ding dong, ding dong,</l>
+                  <l>ding dong, adew,</l>
+                  <l>Loue you no more ſo ſo long,</l>
+                  <l>but change each day a new.</l>
+               </lg>
+               <lg>
+                  <l>Come Shepheards leaue your ſighing</l>
+                  <l>and wipe away your teares,</l>
+                  <l>And let vs fall to piping,</l>
+                  <l>to driue away all cares:</l>
+                  <l>For though that ſhe be gone,</l>
+                  <l>that was ſo <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aic<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a good one,</l>
+                  <l>Yet once more may we find,</l>
+                  <l>as plaine a dealing woman.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150432:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 18 -->
+               <head>The Second Part of the Plaine dealing woman.</head>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>YE Siluan Nimphes come ſkip it,</l>
+                  <l>and crowne your heads with Mirtle:</l>
+                  <l>Yée faire Ewes come trip it,</l>
+                  <l>on earths imbroydered kirtle.</l>
+                  <l>And O you <hi>Driades,</hi>
+                  </l>
+                  <l>which haunt the cooleſt Fountaines:</l>
+                  <l>Come leaue your ſilken ſhadie groues,</l>
+                  <l>and ſport it in the Mountaines.</l>
+               </lg>
+               <lg>
+                  <l>For lo the Gods obtaine it,</l>
+                  <l>that wonders ſhall poſſeſſe her<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And Nature did decree it,</l>
+                  <l>when ſhe with life did bleſſe her.</l>
+                  <l>The Quéene of Loue diſdaind not,</l>
+                  <l>faire <hi>Phillis</hi> for her feature,</l>
+                  <l>For all the world containd not,</l>
+                  <l>ſo rare a comely creature.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Diana</hi> made her chaſt,</l>
+                  <l>and <hi>Pallas</hi> made her witty:</l>
+                  <l>The Goddeſſe <hi>Ceres</hi> grac't</l>
+                  <l>her heart with loue and pitty.</l>
+                  <l>The Muſes did ſelect her,</l>
+                  <l>to grace their learned number:</l>
+                  <l>And <hi>Venus</hi> did elect her,</l>
+                  <l>the onely beautious wonder.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Ioue</hi> beheld her beauty,</l>
+                  <l>his <hi>Leda</hi> did repent him:</l>
+                  <l>
+                     <hi>Ioue</hi> thought that in loues duty,</l>
+                  <l>ſhe onely did conſent him.</l>
+                  <l>And <hi>Phoebus</hi> bluſht to know it,</l>
+                  <l>that <hi>Daphne</hi> had abuſ'd him,</l>
+                  <l>For lo, her worth did ſhow, that</l>
+                  <l>deſertles ſhe refuſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d him.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Pan</hi> was enamoured on her.</l>
+                  <l>his <hi>Sirynx</hi> could not pleaſe him:</l>
+                  <l>And when he lookt vpon her,</l>
+                  <l>her very ſight did eaſe him:</l>
+                  <l>The <hi>Satyre</hi> mournd to miſſe her,</l>
+                  <l>whom all the world admired:</l>
+                  <l>
+                     <hi>Siluanus</hi> wiſht to kiſſe her,</l>
+                  <l>whom greateſt Gods deſired.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cupid</hi> his <hi>Pſyche</hi> left,</l>
+                  <l>to feed his eies vpon her,</l>
+                  <l>Of Godlike power bereft,</l>
+                  <l>that her he more might honour,</l>
+                  <l>His bow and ſhafts he gaue her,</l>
+                  <l>wherewith ſhe wounds all hearts</l>
+                  <l>So well ſhe doth behaue her,</l>
+                  <l>like loue in all his parts.</l>
+               </lg>
+               <lg>
+                  <l>I liſt no more to praiſe her,</l>
+                  <l>whom heauen and earth admire,</l>
+                  <l>A loftier Muſe muſt raiſe her,</l>
+                  <l>whoſe verſe can mount vp higher:</l>
+                  <l>A golden pen muſt write it,</l>
+                  <l>dipt in the Muſes Fountaine,</l>
+                  <l>And they themſelues in<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ite it,</l>
+                  <l>vpon their ſacred Mountaine.</l>
+               </lg>
+               <lg>
+                  <l>Then O yee Shepheard Swaines,</l>
+                  <l>with garlands deck your bonnets,</l>
+                  <l>And let th' Arcadian pla<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes,</l>
+                  <l>ring forth with Lyrick Sonets:</l>
+                  <l>Come tune you rurall voyces,</l>
+                  <l>to chant her matchleſſe merits,</l>
+                  <l>Whoſe faire exceeds all beauties,</l>
+                  <l>the ſpacious world inherits.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for I. W.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
